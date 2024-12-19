@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom classes or override Tailwind styles here if needed */
+body {
+  @apply font-poppins;
+}
